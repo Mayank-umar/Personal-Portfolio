@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/Personal-Portfolio/static/css/main.eb01da3d.css",
+    "main.js": "/Personal-Portfolio/static/js/main.e774818f.js",
+    "static/js/787.1ed0c42c.chunk.js": "/Personal-Portfolio/static/js/787.1ed0c42c.chunk.js",
+    "static/media/Coding.png": "/Personal-Portfolio/static/media/Coding.19217a5eb1d131f1b7d7.png",
+    "static/media/Mongodb.png": "/Personal-Portfolio/static/media/Mongodb.6170bacefd8a1f69ca74.png",
+    "static/media/Gits.png": "/Personal-Portfolio/static/media/Gits.5dbe1e0eb0b25b3b0bd2.png",
+    "static/media/Weather.png": "/Personal-Portfolio/static/media/Weather.ec640d0bf8bf7f476257.png",
+    "static/media/Path.png": "/Personal-Portfolio/static/media/Path.081a4f47cdb7430e3e64.png",
+    "static/media/Personal.png": "/Personal-Portfolio/static/media/Personal.f3aa932abec81d15944b.png",
+    "static/media/Html.png": "/Personal-Portfolio/static/media/Html.1d7b133e22ffe4829da6.png",
+    "static/media/Bootstrap.png": "/Personal-Portfolio/static/media/Bootstrap.9cc938d1c1c7ae7297ea.png",
+    "static/media/Nodejss.png": "/Personal-Portfolio/static/media/Nodejss.7b0f4700ed6ce39afdff.png",
+    "static/media/ReactLogo.png": "/Personal-Portfolio/static/media/ReactLogo.20adfb35ae6a6e5817bf.png",
+    "static/media/Php.png": "/Personal-Portfolio/static/media/Php.1321e83a7b629cc72776.png",
+    "static/media/Clanguage.png": "/Personal-Portfolio/static/media/Clanguage.490f02498154a8809d02.png",
+    "static/media/Cplus.png": "/Personal-Portfolio/static/media/Cplus.1240ce157b70fb399c6c.png",
+    "static/media/Express.png": "/Personal-Portfolio/static/media/Express.d61ef3d53f792ced8df2.png",
+    "static/media/Csss.png": "/Personal-Portfolio/static/media/Csss.99426a611bd5b768e71d.png",
+    "static/media/Javascript.png": "/Personal-Portfolio/static/media/Javascript.dafbcd7fb56fcfce553c.png",
+    "index.html": "/Personal-Portfolio/index.html",
+    "main.eb01da3d.css.map": "/Personal-Portfolio/static/css/main.eb01da3d.css.map",
+    "main.e774818f.js.map": "/Personal-Portfolio/static/js/main.e774818f.js.map",
+    "787.1ed0c42c.chunk.js.map": "/Personal-Portfolio/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.eb01da3d.css",
+    "static/js/main.e774818f.js"
+  ]
+}
